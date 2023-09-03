@@ -20,8 +20,11 @@ api_key = 'sua_chave_de_api_aqui'
 ```
 
 2. Execute o código:
-    - Execute o script Python generate_travel_guide.py para gerar os guias de viagem. Certifique-se de estar no diretório correto onde o código está localizado: python `generate_travel_guide.py`
+    - Execute o script Python generate_travel_guide.py para gerar os guias de viagem. Certifique-se de estar no diretório correto onde o código está localizado: python `ia_genetation_guide.py`
 
 3. Resultado:
     - Os guias de viagem gerados serão salvos em um arquivo CSV de saída chamado guide_users.csv.
-    - Este código demonstra como usar o ChatGpt (OpenAI) para automatizar a geração de guias de viagem com base em dados de entrada. 
+    - Este código demonstra como usar o ChatGpt (OpenAI) para automatizar a geração de guias de viagem com base em dados de entrada.
+  
+# Observação:
+    - O arquivo CSV foi criado por um gerador de CSV cujo dados são meramente a fim didáticos e fictícios.     
